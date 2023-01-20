@@ -22,6 +22,7 @@ public class HomeController : Controller
     {
         ViewData["Email"] = "diego.silperes@gmail.com";
         ViewData["Message"] = "Bem vindos";
+        ViewData["Telefone"] = "99336 - 5666";
         return View();
     }
 
