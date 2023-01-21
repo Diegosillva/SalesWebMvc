@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "41ZVCTUAxKyE9QJMB0x6G2devL2gFO5xHznBZbjMgDY=",
+  "Hash": "rGJcy9MmJhbsghFk1kwdH04suLvIv8H1sZ9gPtk3vkQ=",
   "Source": "SalesWebMvc",
   "BasePath": "_content/SalesWebMvc",
   "Mode": "Default",
@@ -100,23 +100,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
-    },
-    {
-      "Identity": "/home/diego/Documents/Dev/Udemy/CsharpCurso/SalesWebMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-flatly.css",
-      "SourceId": "SalesWebMvc",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/diego/Documents/Dev/Udemy/CsharpCurso/SalesWebMvc/wwwroot/",
-      "BasePath": "_content/SalesWebMvc",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-flatly.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-flatly.css"
     },
     {
       "Identity": "/home/diego/Documents/Dev/Udemy/CsharpCurso/SalesWebMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

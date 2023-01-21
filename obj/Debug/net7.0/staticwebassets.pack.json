@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/home/diego/Documents/Dev/Udemy/CsharpCurso/SalesWebMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-flatly.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-flatly.css"
-    },
-    {
       "Id": "/home/diego/Documents/Dev/Udemy/CsharpCurso/SalesWebMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
